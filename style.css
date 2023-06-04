@@ -1,0 +1,13 @@
+body{
+    background-color: deeppink;
+}
+
+div,h2{
+    background-color: white;
+    width: 300;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: 'Mogra', cursive;
+}
